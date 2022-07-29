@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ToDoApp/static/css/main.b2ca3d3d.css",
+    "main.js": "/ToDoApp/static/js/main.a6058466.js",
+    "static/js/787.ddd78ced.chunk.js": "/ToDoApp/static/js/787.ddd78ced.chunk.js",
+    "index.html": "/ToDoApp/index.html",
+    "main.b2ca3d3d.css.map": "/ToDoApp/static/css/main.b2ca3d3d.css.map",
+    "main.a6058466.js.map": "/ToDoApp/static/js/main.a6058466.js.map",
+    "787.ddd78ced.chunk.js.map": "/ToDoApp/static/js/787.ddd78ced.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2ca3d3d.css",
+    "static/js/main.a6058466.js"
+  ]
+}
